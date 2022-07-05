@@ -8,5 +8,5 @@ um conceito anteriormente aplicado à construção de sites.
 <h2>💻 Tecnologias:</h2>
 HTML
 CSS
-<h2>Conclusão</h2>
+<h2>💡Conclusão</h2>
 Foi o primeiro concluido e fiquei bastante satisfeito com o resultado pois coloquei em pratica conceitos basicos com um resultado visual interessante.
